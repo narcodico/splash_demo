@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LaunchTheme" parent="Base.LaunchTheme">
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="NormalTheme" parent="Base.NormalTheme">
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
